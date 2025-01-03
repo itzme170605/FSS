@@ -24,9 +24,9 @@
 
 # Code Organization:
 
-  ## main.c: Contains a test interface to demonstrate the file system.
-  ## fs.c: Implementation of the file system functions.
-  ## fs.h: Header file for declarations.
+  - main.c: Contains a test interface to demonstrate the file system.
+  - fs.c: Implementation of the file system functions.
+  - fs.h: Header file for declarations.
 
 # Tools Needed:
 
